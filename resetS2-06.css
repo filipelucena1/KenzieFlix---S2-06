@@ -1,0 +1,8 @@
+body, main, section, div, img, figure, figcaption, h1, p{
+    margin: 0;
+    padding: 0;
+    border: none;
+    font-size: 100%;
+    text-decoration: none;
+    box-sizing: border-box;
+}
